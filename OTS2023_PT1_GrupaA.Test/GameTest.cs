@@ -12,6 +12,7 @@ namespace OTS2026_PT1_GrupaA.Test
 
         // F1
 
+
         [Test]
         public void PlayerPositionOutsideLandOnGameCreation_ThrowsInvalidPlayerPositionException()
         {
